@@ -1,11 +1,11 @@
 const menuGaleria = [
-    { name: 'corte-1', category: "cortes", src: "/img/corte1.jpg" },
-    { name: 'corte-2', category: "cortes", src: "/img/corte2.jpg" },
-    { name: 'corte-3', category: "cortes", src: "/img/corte3.jpg" },
-    { name: 'corte-4', category: "cortes", src: "/img/corte4.jpg" },
-    { name: 'infantil-1', category: "infantil", src: "/img/infantil.jpg" },
-    { name: 'barba-1', category: "barbas", src: "/img/barba.JPG" },
-    { name: 'barba-2', category: "barbas", src: "/img/barbaJ.jpg" },
+    { name: 'corte-1', category: "cortes", src: "img/corte1.jpg" },
+    { name: 'corte-2', category: "cortes", src: "img/corte2.jpg" },
+    { name: 'corte-3', category: "cortes", src: "img/corte3.jpg" },
+    { name: 'corte-4', category: "cortes", src: "img/corte4.jpg" },
+    { name: 'infantil-1', category: "infantil", src: "img/infantil.jpg" },
+    { name: 'barba-1', category: "barbas", src: "img/barba.JPG" },
+    { name: 'barba-2', category: "barbas", src: "img/barbaJ.jpg" },
 ];
 
 const buttonCortes = document.querySelector('#cortes');
